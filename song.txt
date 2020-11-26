@@ -30,5 +30,6 @@ No more pain, it will all just end
 And all our forward movement will finally cease
 
 test git-pull
+cherry pick
 
 
