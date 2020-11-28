@@ -32,4 +32,6 @@ And all our forward movement will finally cease
 test git-pull
 cherry pick
 
+add tags
+
 
